@@ -1,4 +1,8 @@
 # StopWatchVerilog
+
+Video Link
+https://www.youtube.com/watch?v=tO61o_u2CWE
+
 This project is to design digital stop watch using Verilog.
 
 
