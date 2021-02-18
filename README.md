@@ -56,8 +56,8 @@ segment to zero.
 
 **TeamMembers:**
 
-**Hamza Ashraf**
-**Muhammad Awais Javed**
+**Hamza Ashraf-**
+**Muhammad Awais Javed-**
 **Rohibullah**
 
 **Instructor:**
