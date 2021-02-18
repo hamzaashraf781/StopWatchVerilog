@@ -29,3 +29,5 @@ To count one hour we are using first block output and we need two register count
 **Time Multiplexing and anode decoder:**
 	Seven segment display of Xilinx DDR4 is not ordinary as we used in our previous system design. The cathode of every seven segment are connected together with active low and only anode of these seven segment display are connected individually.  So to accommodate of every seven segment we need time multiplexing that will on only one 7-segment at one time. This process will be as fast as humane eye can’t see and this time should be in between 1ms to 16ms. 
 
+
+
