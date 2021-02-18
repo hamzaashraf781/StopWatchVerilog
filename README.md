@@ -1,4 +1,4 @@
-#Stopwatch Using Xilinx DDR4 Design
+**#Stopwatch Using Xilinx DDR4 Design**
 
 Video Link
 https://www.youtube.com/watch?v=tO61o_u2CWE
