@@ -54,10 +54,12 @@ segment to zero.
 
 
 
-**TeamMembers:
-Hamza Ashraf
-Muhammad Awais Javed
-Rohibullah**
+**TeamMembers:**
 
-**Instructor:
-Dr.Safeer Hyder**
+**Hamza Ashraf**
+**Muhammad Awais Javed**
+**Rohibullah**
+
+**Instructor:**
+
+**Dr.Safeer Hyder**
