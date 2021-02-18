@@ -30,4 +30,28 @@ To count one hour we are using first block output and we need two register count
 	Seven segment display of Xilinx DDR4 is not ordinary as we used in our previous system design. The cathode of every seven segment are connected together with active low and only anode of these seven segment display are connected individually.  So to accommodate of every seven segment we need time multiplexing that will on only one 7-segment at one time. This process will be as fast as humane eye can’t see and this time should be in between 1ms to 16ms. 
 
 
+**Structurally working modules:**
+
+![](Images/Structure.PNG)
+
+**Simulation Results:**
+
+![](Images/Output.PNG)
+
+**Design Top Module:**
+
+![](Images/1b1f8370-9fc9-47cb-943f-507bd35ae377.jfif)
+
+
+**Conclusion:**
+
+Concluding our project (Stopwatch) design with the help of clock divider for the second which is being displayed through 7 segment display of the Nexys 4 DDR and with the
+same generating clock we also display the minutes through 7 seven segment and also same for the clock of the counter. After 50Mhz clock generation one second will be counting
+in 7 seven segment display for second block and after 60 second there will be one counting in 7 segment display of the minute clock and same will be for hour display but 
+there will be 3600 seconds required for one hour. To run seconds, minutes and hours on the same clock divider we use multiplexer which will decide that which counter should 
+be changed after how many seconds. Two switches also used in stopwatch in which one will act is start and stop and the second switch uses as a reset button to reset all the 
+segment to zero.
+
+
+
 
